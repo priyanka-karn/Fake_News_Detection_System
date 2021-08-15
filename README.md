@@ -2,4 +2,4 @@
 
 Technologies used - Python, Machine Learning 
 
-Description -  It  detects and  classifies  fake and authentic news.I have used Jupyter Notebook.
+Description -  It detects fake news using Logistic Regression, Decision Tree Classification. It builds a model that can differentiate between real and fake news.
